@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+
+-<x:xmpmeta xmlns:tsc="http://www.techsmith.com/xmp/tsc/" xmlns:x="adobe:ns:meta/" tsc:version="2.0.1">
+
+
+-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+
+-<rdf:Description dc:title="Email Guessage" tscDM:project="Untitled Project" tscDM:originId="414CE07B-4747-41F1-838D-78E32E532E38" tscDM:firstFrame="Email_Guessage_First_Frame.png" dc:source="Camtasia,9.1.2,enu" dc:date="2019-03-14 11:47:04 AM">
+
+<xmpDM:duration xmpDM:value="54666" xmpDM:scale="1/1000"/>
+
+<xmpDM:videoFrameSize stDim:w="986" stDim:h="1004" stDim:unit="pixel"/>
+
+
+-<tsc:langName>
+
+
+-<rdf:Bag>
+
+<rdf:li xml:lang="en-US">English</rdf:li>
+
+</rdf:Bag>
+
+</tsc:langName>
+
+
+-<xmpDM:Tracks>
+
+
+-<rdf:Bag>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:quizHash="339673a47ef6cab64e10d02705c0935f" tscIQ:hideReplay="1" tscIQ:clientId="1CDF22D874AC443FBBB68075B4AE31CD" tscIQ:allowSkipQuiz="0" tscIQ:reportMethod="NONE" tscIQ:locale="en-US" tscIQ:requireUserId="0" tscIQ:authoredEmail="mhIrHMejRaRm8+AlaelhcvaZxjHOi4oClzrDFhJlMOg/4nrUaM2e9iOitpfZtPMFdAkxaCIAmQ1x EChdxpS8DcOP8n86sPAdUfD+boWlVpZRsaRON5P/Ky+rBOG1gwRdlpFTsGo+QaMEly746tdenk9v qu34AmLof048H2oxFWCS49c7PR9HqXRa/GM58hnOV81LjDidIc8tRGEp+vrEDTQgAW4ADB7FKhpj KxREeb6JKmOH+b+r0TuQuBrXEDbxKHkef3Y7DwIHd6e8/khLjb0kLrqAYO/unNnQ6jBlk0n+eIoc Y679oICMfmEBGh4D+KBl9lCzMm7wo4B9MiYy5Q==" tscIQ:quizGuid="99940282-C995-42A7-A63D-79279E896BF1" xmpDM:trackName="Quiz" xmpDM:frameRate="f1000" xmpDM:trackType="Quiz">
+
+
+-<xmpDM:markers>
+
+
+-<rdf:Seq>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:questionSetName="Quiz 1" tscIQ:feedback="1" xmpDM:startTime="37367">
+
+
+-<tscIQ:questions>
+
+
+-<rdf:Seq>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:id="0" tscIQ:type="MC">
+
+<tscIQ:question>Which Email address is Stuarts Personal email address?</tscIQ:question>
+
+<tscIQ:correctAnswer>4</tscIQ:correctAnswer>
+
+
+-<tscIQ:answerArray>
+
+
+-<rdf:Seq>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="0">
+
+<tscIQ:answer>Stuart.kennedy@emailhippo.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="1">
+
+<tscIQ:answer>stuart.k@gmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="2">
+
+<tscIQ:answer>Kennedys26@yahoo.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="3">
+
+<tscIQ:answer>sk@hotmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="4">
+
+<tscIQ:answer>s.kennedy@me.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="5">
+
+<tscIQ:answer>kennedy.stuart@hotmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="6">
+
+<tscIQ:answer>s.kennedy@gmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="7">
+
+<tscIQ:answer>s.kennedy@hotmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="8">
+
+<tscIQ:answer>stuart.kennedy@gmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:orderId="9">
+
+<tscIQ:answer>kennedy@hotmail.com</tscIQ:answer>
+
+</rdf:Description>
+
+</rdf:li>
+
+</rdf:Seq>
+
+</tscIQ:answerArray>
+
+
+-<tscIQ:feedback>
+
+
+-<rdf:Bag>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:jumpToTime="41667" tscIQ:reason="correct">
+
+
+-<xmpDM:name>
+
+
+-<rdf:Alt>
+
+<rdf:li>Your guess was correct</rdf:li>
+
+</rdf:Alt>
+
+</xmpDM:name>
+
+</rdf:Description>
+
+</rdf:li>
+
+
+-<rdf:li>
+
+
+-<rdf:Description tscIQ:jumpToTime="49667" tscIQ:reason="incorrect">
+
+
+-<xmpDM:name>
+
+
+-<rdf:Alt>
+
+<rdf:li>Your guess was wrong </rdf:li>
+
+</rdf:Alt>
+
+</xmpDM:name>
+
+</rdf:Description>
+
+</rdf:li>
+
+</rdf:Bag>
+
+</tscIQ:feedback>
+
+</rdf:Description>
+
+</rdf:li>
+
+</rdf:Seq>
+
+</tscIQ:questions>
+
+</rdf:Description>
+
+</rdf:li>
+
+</rdf:Seq>
+
+</xmpDM:markers>
+
+
+-<tscIQ:QuizParams>
+
+
+-<rdf:Bag>
+
+<rdf:li xmpDM:value="Previous" xmpDM:name="txtPrev"/>
+
+<rdf:li xmpDM:value="Next" xmpDM:name="txtNext"/>
+
+<rdf:li xmpDM:value="Take Quiz Now" xmpDM:name="txtAnswerQuestion"/>
+
+<rdf:li xmpDM:value="Submit Answers" xmpDM:name="txtSubmit"/>
+
+<rdf:li xmpDM:value="Replay Last Section" xmpDM:name="txtReview"/>
+
+<rdf:li xmpDM:value="View Answers" xmpDM:name="txtReviewAnswer"/>
+
+<rdf:li xmpDM:value="Continue" xmpDM:name="txtContinue"/>
+
+</rdf:Bag>
+
+</tscIQ:QuizParams>
+
+</rdf:Description>
+
+</rdf:li>
+
+</rdf:Bag>
+
+</xmpDM:Tracks>
+
+
+-<tscDM:controller>
+
+
+-<rdf:Description xmpDM:name="tscplayer">
+
+
+-<tscDM:parameters>
+
+
+-<rdf:Bag>
+
+<rdf:li xmpDM:value="true" xmpDM:name="autohide"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="autoplay"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="loop"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="searchable"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="captionsenabled"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="sidebarenabled"/>
+
+<rdf:li xmpDM:value="false" xmpDM:name="unicodeenabled"/>
+
+<rdf:li xmpDM:value="000000" xmpDM:name="backgroundcolor"/>
+
+<rdf:li xmpDM:value="left" xmpDM:name="sidebarlocation"/>
+
+<rdf:li xmpDM:value="stop" xmpDM:name="endaction"/>
+
+<rdf:li xmpDM:value="true" xmpDM:name="endactionparam"/>
+
+<rdf:li xmpDM:value="en-US" xmpDM:name="locale"/>
+
+</rdf:Bag>
+
+</tscDM:parameters>
+
+
+-<tscDM:controllerText>
+
+<rdf:Bag> </rdf:Bag>
+
+</tscDM:controllerText>
+
+</rdf:Description>
+
+</tscDM:controller>
+
+
+-<tscDM:contentList>
+
+
+-<rdf:Description>
+
+
+-<tscDM:files>
+
+
+-<rdf:Seq>
+
+<rdf:li xmpDM:value="Email Guessage.mp4" xmpDM:name="0"/>
+
+<rdf:li xmpDM:value="Email_Guessage_First_Frame.png" xmpDM:name="1"/>
+
+</rdf:Seq>
+
+</tscDM:files>
+
+</rdf:Description>
+
+</tscDM:contentList>
+
+</rdf:Description>
+
+</rdf:RDF>
+
+</x:xmpmeta>
